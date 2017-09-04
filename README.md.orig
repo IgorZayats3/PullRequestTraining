@@ -1,0 +1,16 @@
+# PullRequestTraining 1
+
+## New commit 1
+
+### yet another commit 1
+
+
+<<<<<<< 4b72fd8fa869d12201f19c2233d3c1abdd7d7b2e
+## change after PR 1
+
+changes1
+=======
+## change before PR
+
+## izmen
+>>>>>>> My commit1
